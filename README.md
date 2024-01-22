@@ -1,2 +1,2 @@
-# calculadora-de-partidas-rankeadas
+# Calculadora de partidas rankeadas
 Desenvolvimento de desafio calculadora de partidas ranqueadas
