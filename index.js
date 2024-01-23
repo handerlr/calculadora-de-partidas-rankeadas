@@ -37,7 +37,7 @@ while (true) {
 
     // Saídas possíveis
     if (saldoVitorias !== 0 && saldoDerrotas !== 0)
-        console.log("O Herói tem de saldo de {saldoTotal} está no nível de {nivel}");
+        console.log("O Herói tem de saldo de ${saldoTotal} está no nível de ${nivel}");
     else
         console.log("Você precisa informar a quantidade de virtórias e de derrotas.");
 
